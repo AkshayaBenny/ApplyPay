@@ -17,7 +17,6 @@ The backend is powered by **FastAPI**, **MySQL**, **Celery**, and **Redis**, and
 ### ⚙️ Backend (FastAPI)
 - RESTful APIs for managing user applications and payments  
 - Razorpay payment integration  
-- Asynchronous task processing with Celery + Redis  
 - Database management using SQLAlchemy + MySQL  
 - Dockerized for scalable deployment  
 
